@@ -1,3 +1,5 @@
+## this script plots the %div top 50 repeat families for ltr unknown for sex chromosomes
+
 import os, re
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
