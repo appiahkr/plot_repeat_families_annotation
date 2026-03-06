@@ -1,3 +1,5 @@
+### this plot the cumulative frequency of percentage divergence various repeat types for each repeat categories
+
 import pandas as pd
 import numpy as np
 import re
