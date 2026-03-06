@@ -1,3 +1,9 @@
+### this takes pan edta file 
+### normalize repeat family counts by size of chromosomes
+### compare normalized counts for regions and fisher test to check the differences
+
+
+
 import re
 from collections import defaultdict
 import pandas as pd
