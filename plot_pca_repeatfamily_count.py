@@ -1,3 +1,5 @@
+### this plot pca for normalized repeat family counts for chromosomes in the genome
+
 import re
 from collections import defaultdict
 import pandas as pd
