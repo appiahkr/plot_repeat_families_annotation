@@ -1,3 +1,6 @@
+### this takes in pan edta file for two genomes and plot the normalized ropeat family counts for sex chromosomes
+### also plot fisher test
+
 import re
 from collections import defaultdict
 import pandas as pd
